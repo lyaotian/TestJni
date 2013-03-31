@@ -22,7 +22,7 @@ import android.os.Bundle;
 public class TwoLibs extends Activity {
 	
 	static{
-        System.loadLibrary("module2");
+        System.loadLibrary("module_main");
 	}
 	
 	@Override
